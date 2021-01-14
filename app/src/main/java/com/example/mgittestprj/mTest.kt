@@ -7,4 +7,7 @@ class mTest {
     fun j() {
 
     }
+    fun k() {
+
+    }
 }
