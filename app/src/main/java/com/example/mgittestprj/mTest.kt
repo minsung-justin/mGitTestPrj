@@ -15,4 +15,7 @@ class mTest {
     fun l() {
         //develop
     }
+    fun m() {
+
+    }
 }
